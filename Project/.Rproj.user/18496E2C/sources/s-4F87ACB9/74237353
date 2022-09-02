@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1647471197321.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "74237353",
+    "lastKnownWriteTime" : 1647471471,
+    "last_content_update" : 1647471471641,
+    "path" : "C:/Users/hagar/OneDrive/Documents/Modellling Project/Modelling.Rmd",
+    "project_path" : "Modelling.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "20,6",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
